@@ -19,12 +19,23 @@ Este desafío es la continuación de la primera parte: **"Análisis de Evasión 
 * Concluir con un análisis estratégico sobre los factores que influyen en la cancelación.
 
 
+## 📁 Estructura del Proyecto
+```
+/
+├── TelecomX_LATAM_parte2.ipynb      # Notebook principal
+├── datos_tratados.csv               # Datos tratados
+└── README.md                        # Descripción del proyecto
+```
+
+
 ## 🧰 Tecnologías utilizadas
 
 * Python
 * Google Colab
 * pandas
 * scikit-learn
+* imbalanced-learn
+* numpy
 
 
 ## 🚀 Flujo de trabajo
